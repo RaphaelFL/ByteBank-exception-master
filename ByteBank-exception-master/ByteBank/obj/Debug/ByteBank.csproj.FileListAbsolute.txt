@@ -1,0 +1,8 @@
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Raphs\OneDrive\Área de Trabalho\faculdade\C\C#\ByteBank-exception-master\ByteBank\obj\Debug\ByteBank.pdb
